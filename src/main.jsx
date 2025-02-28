@@ -2,7 +2,7 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./index.css";
-import ProfilePage from "./pages/Profile.jsx";
+import ProfilePage from "./pages/profile.jsx";
 
 const router = createBrowserRouter([
   {
