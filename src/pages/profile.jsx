@@ -6,7 +6,7 @@ import SosialCard from "../components/social-card"
 
 const ProfilePage = () => {
     return (
-        <div className="bg-[#E3E3ED] p-10 grid gap-6 grid-cols-1 lg:grid-cols-3">
+        <div className="bg-[#E3E3ED] p-4 lg:p-10 grid gap-6 grid-cols-1 lg:grid-cols-3">
             <div className="col-span-1 flex flex-col gap-6">
                 <AvatarCard/>
                 <SosialCard/>
