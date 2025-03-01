@@ -2,31 +2,77 @@
 
 This repository contains the source code for my personal portfolio website built with React, Vite, and Tailwind CSS.
 
----
+## Prerequisites
 
-## English Version
+Before you begin, ensure you have the following installed on your machine:
+* Node.js (v14 or above)
+* npm or yarn
 
-### Overview
-This project is a personal portfolio website that showcases my work, projects, and provides information about me. It is built using modern technologies to ensure a responsive, fast, and smooth user experience.
+## Features
 
-### Features
-- **Responsive Design:** Styled with Tailwind CSS to ensure your portfolio looks great on all devices.
-- **Efficient Development:** Powered by Vite for a faster and more optimized development experience.
-- **Modern UI:** Built with React using functional components and hooks.
-- **Easy Navigation:** A clean layout that highlights your projects, skills, and contact information.
+* Responsive Design
+* Project Showcase
+* Skills & Experience Section
+* Contact Form
+* Dark/Light Mode Toggle
+* Animated UI Components
 
-### Technologies Used
-- **React:** A JavaScript library for building user interfaces.
-- **Vite:** A build tool that offers a fast development environment and optimized production builds.
-- **Tailwind CSS:** A utility-first CSS framework that accelerates UI development.
+## Getting started
 
-### Getting Started
+Clone the repository.
 
-#### Prerequisites
-- Node.js (v14 or above)
-- npm or yarn package manager
+```
+git clone https://github.com/yourusername/portfolio.git
+```
 
-#### Installation
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
+Navigate to the project directory:
+
+```
+cd portfolio
+```
+
+Install dependencies
+
+```
+npm install
+```
+
+## Development
+
+To start the development server, run:
+
+```
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Build for Production
+
+To build the app for production, run:
+
+```
+npm run build
+```
+
+This will create a `dist` folder with all the production-ready files.
+
+## Technologies Used
+
+* React - Frontend library
+* Vite - Build tool and development server
+* Tailwind CSS - Utility-first CSS framework
+
+## Learn More
+
+To learn more about the technologies used, check out these resources:
+* [React Documentation](https://reactjs.org/docs/getting-started.html)
+* [Vite Documentation](https://vitejs.dev/guide/)
+* [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+
+## Deployment
+
+The easiest way to deploy your portfolio is using platforms like:
+* [Vercel](https://vercel.com)
+* [Netlify](https://netlify.com)
+* [GitHub Pages](https://pages.github.com)
