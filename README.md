@@ -22,13 +22,13 @@ Before you begin, ensure you have the following installed on your machine:
 Clone the repository.
 
 ```
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/DafaTyo/Portfolio-V1.git
 ```
 
 Navigate to the project directory:
 
 ```
-cd portfolio
+cd Portfolio-V1
 ```
 
 Install dependencies
@@ -44,8 +44,6 @@ To start the development server, run:
 ```
 npm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Build for Production
 
