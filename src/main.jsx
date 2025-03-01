@@ -7,8 +7,7 @@ import ProfilePage from "./pages/profile.jsx";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <ProfilePage />,
-    errorElement: <ErrorPage />,
+    element: <ProfilePage />
   },
 ]);
 
