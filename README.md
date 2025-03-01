@@ -12,9 +12,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 * Responsive Design
 * Project Showcase
-* Skills & Experience Section
-* Contact Form
-* Dark/Light Mode Toggle
+* Skills Section
 * Animated UI Components
 
 ## Getting started
